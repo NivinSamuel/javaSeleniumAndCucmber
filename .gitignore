@@ -1,0 +1,25 @@
+# Ignore build output
+/target/
+
+# Ignore compiled class files
+*.class
+
+# Ignore log files
+*.log
+
+# IntelliJ / VS Code / Eclipse files
+.idea/
+*.iml
+*.classpath
+*.project
+.settings/
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Cucumber report
+cucumber-report.html
+
+# ChromeDriver or browser binaries
+chromedriver
